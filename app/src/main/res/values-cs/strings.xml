@@ -33,7 +33,7 @@
     <string name="dates_fixed_successfully">Datumy byly úspěšně opraveny</string>
     <string name="share_resized">Sdílet verzi se změněnou velikostí</string>
     <string name="upgraded_from_free">Zdravím,\n\nzdá se, že jse přešli ze staré bezplatné aplikace. Starou aplikaci, která má nahoře v nastavení tlačítko \'Stáhnout Pro verzi\', můžete již odinstalovat.\n\nZtratíte tím pouze soubory v odpadkovém koši, označení oblíbených souborů a také budete muset znovu nastavit položky v nastavení aplikace.\n\nDěkuji!</string>
-    <string name="switch_to_file_search">Switch to file search across all visible folders</string>
+    <string name="switch_to_file_search">Přepnout na vyhledávání souborů ve všech viditelných složkách</string>
 
     <!-- Filter -->
     <string name="filter_media">Filtr médií</string>
@@ -42,7 +42,7 @@
     <string name="gifs">GIFy</string>
     <string name="raw_images">RAW obrázky</string>
     <string name="svgs">SVGčka</string>
-    <string name="portraits">Portraits</string>
+    <string name="portraits">Portréty</string>
     <string name="no_media_with_filters">Se zvolenými filtry nebyly nalezeny žádné médiální soubory.</string>
     <string name="change_filters_underlined"><u>Změnit filtry</u></string>
 
@@ -65,7 +65,7 @@
     <string name="manage_included_folders">Spravovat přidané složky</string>
     <string name="add_folder">Přidat složku</string>
     <string name="included_activity_placeholder">Pokud máte nějaké složky obsahující média, ale nebyly aplikací nalezeny, můžete je zde přidat ručně.</string>
-    <string name="no_media_add_included">No media files have been found. You can solve it by adding the folders containing media files manually.</string>
+    <string name="no_media_add_included">Nebyly nalezeny žádné mediální soubory. Můžete to napravit ručním přidáním složek, které obsahují média.</string>
 
     <!-- Resizing -->
     <string name="resize">Změnit velikost</string>
@@ -82,7 +82,7 @@
     <string name="path">Cesta</string>
     <string name="invalid_image_path">Neplatná cesta</string>
     <string name="image_editing_failed">Úprava souboru selhala</string>
-    <string name="file_edited_successfully">File edited successfully</string>
+    <string name="file_edited_successfully">Soubor byl úspěšně upraven</string>
     <string name="edit_image_with">Upravit soubor pomocí:</string>
     <string name="no_editor_found">Nebyl nalezen žádný editor</string>
     <string name="unknown_file_location">Neznámé umístění souboru</string>
@@ -118,10 +118,10 @@
     <string name="random_order">Náhodné pořadí</string>
     <string name="move_backwards">Jít opačným směrem</string>
     <string name="loop_slideshow">Opakovat prezentaci ve smyčce</string>
-    <string name="animation">Animation</string>
-    <string name="no_animation">None</string>
-    <string name="fade">Fade</string>
-    <string name="slide">Slide</string>
+    <string name="animation">Animace</string>
+    <string name="no_animation">Žádná</string>
+    <string name="fade">Prolnutí</string>
+    <string name="slide">Posun</string>
     <string name="slideshow_ended">Prezentace skončila</string>
     <string name="no_media_for_slideshow">Nebyla nalezena žádná média pro prezentaci</string>
 
@@ -136,11 +136,11 @@
     <string name="do_not_group_files">Neseskupovat soubory</string>
     <string name="by_folder">Složky</string>
     <string name="by_last_modified">Data poslední úpravy</string>
-    <string name="by_last_modified_daily">Last modified (daily)</string>
-    <string name="by_last_modified_monthly">Last modified (monthly)</string>
+    <string name="by_last_modified_daily">Data poslední úpravy (denně)</string>
+    <string name="by_last_modified_monthly">Data poslední úpravy (měsíčně)</string>
     <string name="by_date_taken">Data pořízení</string>
-    <string name="by_date_taken_daily">Date taken (daily)</string>
-    <string name="by_date_taken_monthly">Date taken (monthly)</string>
+    <string name="by_date_taken_daily">Data pořízení (denně)</string>
+    <string name="by_date_taken_monthly">Data pořízení (měsíčně)</string>
     <string name="by_file_type">Typu souboru</string>
     <string name="by_extension">Přípony</string>
     <string name="grouping_and_sorting">Mějte prosím na paměti, že seskupování a řazení jsou 2 nezávislé hodnoty</string>
@@ -188,8 +188,8 @@
     <string name="file_loading_priority">Priorita načítání obrázků</string>
     <string name="speed">Rychlost</string>
     <string name="compromise">Kompromis</string>
-    <string name="avoid_showing_invalid_files">Vyvarovat se zobrazení neplatných souborů</string>
-    <string name="show_image_file_types">Show image file types</string>
+    <string name="avoid_showing_invalid_files">Nezobrazovat neplatné soubory</string>
+    <string name="show_image_file_types">Zobrazit typ obrázkových souborů</string>
 
     <!-- Setting sections -->
     <string name="thumbnails">Náhledy</string>
@@ -238,7 +238,7 @@
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">Jednoduchá Galerie Pro - Organizér a editor fotografií</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Browse your memories without any interruptions.</string>
+    <string name="app_short_description">Prohlížejte své vzpomínky bez přerušení.</string>
     <string name="app_long_description">
         Jednoduchá Galerie Pro je vysoce přizpůsobitelná offline galerie. Organizujte a upravujte své fotografie, obnovujte smazané fotografie s funkcí odpadkového koše, chraňte je a skrývejte. Prohlížejte množství různých foto a video formátů včetně RAW, SVG a mnoho dalších.
 
