@@ -32,7 +32,7 @@
     <string name="fixing">Correction en cours...</string>
     <string name="dates_fixed_successfully">Dates corrigées</string>
     <string name="share_resized">Partager une version redimensionnée</string>
-    <string name="upgraded_from_free">Hey,\n\nseems like you upgraded from the old free app. You can now uninstall the old version, which has an \'Upgrade to Pro\' button at the top of the app settings.\n\nYou will only have the Recycle bin items deleted, favorite items unmarked and you will also have to reset your app settings.\n\nThanks!</string>
+    <string name="upgraded_from_free">Hé,\n\nvous avez apparemment fait une mise à niveau à partir de l'ancienne application gratuite. Vous pouvez maintenant désinstaller l'ancienne version avec le bouton \'Mettre à niveau vers Pro\' en haut des paramètres de l'application.\n\nVos éléments de la corbeille seront supprimés, les éléments favoris seront non marqués et vous devrez également restaurer les paramètres de votre application.\n\nMerci !</string>
     <string name="switch_to_file_search">Basculer vers la recherche de fichiers</string>
 
     <!-- Filter -->
@@ -58,7 +58,7 @@
     <string name="remove_all_description">Supprimer tous les dossiers de la liste des exclusions ? Cela n\'effacera pas les dossiers.</string>
     <string name="hidden_folders">Dossiers cachés</string>
     <string name="manage_hidden_folders">Gérer les dossiers cachés</string>
-    <string name="hidden_folders_placeholder">Il semblerait que vous n\'ayez pas de dossier cachés avec un fichier \".nomedia\".</string>
+    <string name="hidden_folders_placeholder">Il semblerait que vous n\'ayez pas de dossier caché avec un fichier \".nomedia\".</string>
 
     <!-- Include folders -->
     <string name="include_folders">Dossiers ajoutés</string>
@@ -81,8 +81,8 @@
     <string name="rotate">Pivoter</string>
     <string name="path">Emplacement</string>
     <string name="invalid_image_path">Emplacement invalide</string>
-    <string name="image_editing_failed">Échec de l\'édition de l\'image</string>
-    <string name="file_edited_successfully">File edited successfully</string>
+    <string name="image_editing_failed">L\'édition de l\'image a échoué</string>
+    <string name="file_edited_successfully">L\'image a été éditée avec succès</string>
     <string name="edit_image_with">Modifier l\'image avec :</string>
     <string name="no_editor_found">Aucun éditeur d\'image trouvé</string>
     <string name="unknown_file_location">Emplacement du fichier inconnu</string>
@@ -132,7 +132,7 @@
     <string name="group_direct_subfolders">Mode sous-dossiers</string>
 
     <!-- Grouping at media thumbnails -->
-    <string name="group_by">Grouper par</string>
+    <string name="group_by">Grouper par...</string>
     <string name="do_not_group_files">Ne pas grouper les fichiers</string>
     <string name="by_folder">Dossier</string>
     <string name="by_last_modified">Date de modification</string>
@@ -188,7 +188,7 @@
     <string name="file_loading_priority">Priorité de chargement des fichiers</string>
     <string name="speed">Rapide</string>
     <string name="compromise">Compromis</string>
-    <string name="avoid_showing_invalid_files">Eviter l\'affichage de fichiers invalides</string>
+    <string name="avoid_showing_invalid_files">Éviter l\'affichage de fichiers invalides</string>
     <string name="show_image_file_types">Afficher les types d\'image</string>
 
     <!-- Setting sections -->
