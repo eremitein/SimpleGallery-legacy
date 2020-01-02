@@ -33,7 +33,7 @@
     <string name="dates_fixed_successfully">Datas corrigidas com sucesso</string>
     <string name="share_resized">Compartilhar uma versão redimensionada</string>
     <string name="upgraded_from_free">Olá,\n\nparece que você atualizou o antigo aplicativo gratuito. Agora você poderá desinstalar a velha versão que tem o botão  de atualizar para a versão Pro no topo das Configurações.\n\nVocê terá os itens da Lixeira excluídos, itens favoritos desmarcados e também terá que redefinir as configurações do seu aplicativo.\n\nObrigado!</string>
-    <string name="switch_to_file_search">Switch to file search across all visible folders</string>
+    <string name="switch_to_file_search">Alternar para a pesquisa de arquivos em todas as pastas visíveis</string>
 
     <!-- Filter -->
     <string name="filter_media">Filtrar mídia</string>
@@ -42,7 +42,7 @@
     <string name="gifs">GIFs</string>
     <string name="raw_images">Imagens RAW</string>
     <string name="svgs">SVGs</string>
-    <string name="portraits">Portraits</string>
+    <string name="portraits">Retratos</string>
     <string name="no_media_with_filters">Nenhum arquivo de mídia encontrado a partir dos filtros selecionados.</string>
     <string name="change_filters_underlined"><u>Alterar filtros</u></string>
 
@@ -82,7 +82,7 @@
     <string name="path">Caminho</string>
     <string name="invalid_image_path">Caminho inválido</string>
     <string name="image_editing_failed">Falha na edição da imagem</string>
-    <string name="file_edited_successfully">File edited successfully</string>
+    <string name="file_edited_successfully">Arquivo editado com sucesso</string>
     <string name="edit_image_with">Editar imagem com:</string>
     <string name="no_editor_found">Editor não encontrado</string>
     <string name="unknown_file_location">Localização desconhecida</string>
@@ -189,7 +189,7 @@
     <string name="speed">Velocidade</string>
     <string name="compromise">Meio termo</string>
     <string name="avoid_showing_invalid_files">Evitar a exibição de arquivos inválidos</string>
-    <string name="show_image_file_types">Show image file types</string>
+    <string name="show_image_file_types">Mostrar tipos de arquivo de imagem</string>
 
     <!-- Setting sections -->
     <string name="thumbnails">Miniaturas</string>
@@ -200,7 +200,7 @@
     <!-- Bottom actions -->
     <string name="manage_bottom_actions">Gerenciar botões de ação</string>
     <string name="toggle_favorite">Favoritar/Desfavoritar</string>
-    <string name="toggle_file_visibility">Exibir/Ocultar arquivo</string>v
+    <string name="toggle_file_visibility">Exibir/Ocultar arquivo</string>
 
     <!-- FAQ -->
     <string name="faq_1_title">O que devo fazer para que a Simple Galeria seja o aplicativo de galeria padrão do meu aparelho?</string>
@@ -237,7 +237,7 @@
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">Simple Galeria Pro - Gerenciador de Imagens</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Browse your memories without any interruptions.</string>
+    <string name="app_short_description">Procure suas memórias sem interrupções.</string>
     <string name="app_long_description">
         A Simple Galeria Pro é uma galeria de imagens e vídeos altamente customizável. Organize e edite suas fotos e vídeos, recupere arquivos movidos para a lixeira, proteja e oculte seus arquivos, e visualize arquivos em uma grande variedade de formatos, incluindo RAW, SVG, e muito mais.
         Este app não inclui anúncios ou permissões desnecessárias e também não acessa a internet. Sua privacidade está protegida.
